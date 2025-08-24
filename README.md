@@ -1,9 +1,9 @@
-# 💫 Hi 👋, I'm Amarjit Gupta
+# 💫 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amarjit Gupta
 **A passionate Web Developer || Full Stack Developer || Backend Developer**
 
 Email Me 👉 ✉️ **guptaamarjit777@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-my [Portfolio Website](https://amarjit-portfolio.vercel.app/).
+[🌐 Visit My Portfolio](https://amarjit-portfolio.vercel.app/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Amarjit-Gupta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
